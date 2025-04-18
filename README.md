@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently pursuing  BTech in Information Technology from Netaji Subhash Engineering College.<br>I am a full stack web developer.<br><br>
+B.Tech IT @ NSEC | Full Stack Web Developer | Passionate about scalable apps 🚀
+<br><br>
 
 
 # 💻 Tech Stack:
