@@ -1,6 +1,5 @@
 # 💫 About Me:
-B.Tech IT @ NSEC | Full Stack Web Developer | Passionate about scalable apps 🚀
-<br><br>
+B.Tech (IT) student at NSEC | Full-Stack Web Developer | Passionate about building scalable and performance-driven web applications 🚀<br><br>
 
 
 # 💻 Tech Stack:
