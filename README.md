@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech (IT) student at NSEC | Full-Stack Web Developer | Passionate about building scalable and performance-driven web applications 🚀<br><br>
+B.Tech (IT) Student at NSEC | Full-Stack Developer | TCS Offer Holder | Software Developer Intern @ Etailed Digital Services | Focused on building scalable, efficient, and user-centric web applications 🚀<br><br>
 
 
 # 💻 Tech Stack:
